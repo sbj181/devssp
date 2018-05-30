@@ -1,0 +1,12 @@
+[10-Jul-2017 14:06:24 UTC] PHP Fatal error:  Cannot use object of type WP_Post as array in /home/asenkaco/public_html/projects/ssp/wp-includes/class-wp-query.php on line 3162
+[10-Jul-2017 14:07:24 UTC] PHP Fatal error:  Cannot use object of type WP_Post as array in /home/asenkaco/public_html/projects/ssp/wp-includes/class-wp-query.php on line 3162
+[10-Jul-2017 14:57:41 UTC] PHP Catchable fatal error:  Object of class WP_Post could not be converted to string in /home/asenkaco/public_html/projects/ssp/wp-content/plugins/advanced-custom-fields/core/api.php on line 338
+[10-Jul-2017 14:58:21 UTC] PHP Catchable fatal error:  Object of class WP_Post could not be converted to string in /home/asenkaco/public_html/projects/ssp/wp-content/plugins/advanced-custom-fields/core/api.php on line 338
+[10-Jul-2017 17:45:42 UTC] PHP Catchable fatal error:  Object of class WP_Post could not be converted to string in /home/asenkaco/public_html/projects/ssp/wp-content/plugins/advanced-custom-fields/core/api.php on line 338
+[10-Jul-2017 17:45:57 UTC] PHP Catchable fatal error:  Object of class WP_Post could not be converted to string in /home/asenkaco/public_html/projects/ssp/wp-content/plugins/advanced-custom-fields/core/api.php on line 338
+[10-Jul-2017 17:46:17 UTC] PHP Catchable fatal error:  Object of class WP_Post could not be converted to string in /home/asenkaco/public_html/projects/ssp/wp-content/plugins/advanced-custom-fields/core/api.php on line 338
+[10-Jul-2017 17:46:55 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/asenkaco/public_html/projects/ssp/wp-content/themes/asenka/template-parts/content-blog.php on line 116
+[10-Jul-2017 17:47:56 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/asenkaco/public_html/projects/ssp/wp-content/themes/asenka/template-parts/content-blog.php on line 124
+[10-Jul-2017 17:47:59 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/asenkaco/public_html/projects/ssp/wp-content/themes/asenka/template-parts/content-blog.php on line 124
+[10-Jul-2017 17:48:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/asenkaco/public_html/projects/ssp/wp-content/themes/asenka/template-parts/content-blog.php on line 132
+[10-Jul-2017 17:50:56 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/asenkaco/public_html/projects/ssp/wp-content/themes/asenka/template-parts/content-blog.php on line 115
